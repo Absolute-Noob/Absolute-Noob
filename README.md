@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Absolute-Noob
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me - you can, i won't respond tho
